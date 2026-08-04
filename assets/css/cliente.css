@@ -1,0 +1,26 @@
+/* Botões do menu */
+.btn-menu{
+    background: #ffffff;
+    color: #198754;
+    border: 2px solid #ffffff;
+    border-radius: 12px;
+    padding: 10px 22px;
+    font-weight: 600;
+    transition: .3s;
+    box-shadow: 0 4px 10px rgba(0,0,0,.15);
+}
+
+.btn-menu i{
+    margin-right:6px;
+}
+
+.btn-menu:hover{
+    background:#20c997;
+    color:#fff;
+    transform:translateY(-3px);
+    box-shadow:0 8px 18px rgba(0,0,0,.25);
+}
+
+.btn-menu:focus{
+    box-shadow:0 0 0 .25rem rgba(255,255,255,.35);
+}

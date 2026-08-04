@@ -7,9 +7,9 @@
 
         <p> A página solicitada não foi encontrada </p>
 
-        <img src="./assets/img/erro_404.png" width="400" height="400"> <br><br>
+        <img src="./assets/img/erro_404.jpg" width="400" height="400"> <br> <br>
 
-        <a href="index.php?page=produtos" class="btn btn-primary">
+        <a href="index.php?page=agenda" class="btn btn-primary">
             Voltar para Cadastro
         </a>
     </div>
